@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26748823407",
+    "project_id": "chatboard-38684",
+    "storage_bucket": "chatboard-38684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26748823407:android:56e0318d52435784506a9a",
+        "android_client_info": {
+          "package_name": "com.builddream.chatboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26748823407-3kdrbk4ipigavcum41kis6vqounkv4b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgYu_xpNV-W1BoCnf__hu86c688t2wOOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26748823407-3kdrbk4ipigavcum41kis6vqounkv4b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
